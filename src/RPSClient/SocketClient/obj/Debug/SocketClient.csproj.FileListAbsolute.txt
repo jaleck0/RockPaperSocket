@@ -1,0 +1,14 @@
+C:\Users\Renata Frenken\source\repos\SocketClient\SocketClient\bin\Debug\SocketClient.exe.config
+C:\Users\Renata Frenken\source\repos\SocketClient\SocketClient\bin\Debug\SocketClient.exe
+C:\Users\Renata Frenken\source\repos\SocketClient\SocketClient\bin\Debug\SocketClient.pdb
+C:\Users\Renata Frenken\source\repos\SocketClient\SocketClient\obj\Debug\SocketClient.csprojResolveAssemblyReference.cache
+C:\Users\Renata Frenken\source\repos\SocketClient\SocketClient\obj\Debug\SocketClient.csproj.CoreCompileInputs.cache
+C:\Users\Renata Frenken\source\repos\SocketClient\SocketClient\obj\Debug\SocketClient.exe
+C:\Users\Renata Frenken\source\repos\SocketClient\SocketClient\obj\Debug\SocketClient.pdb
+D:\GitHub\t-db2-2122vj-lucasvanlippen\es\wirelessRPS\RPSClient\SocketClient\bin\Debug\SocketClient.exe.config
+D:\GitHub\t-db2-2122vj-lucasvanlippen\es\wirelessRPS\RPSClient\SocketClient\bin\Debug\SocketClient.exe
+D:\GitHub\t-db2-2122vj-lucasvanlippen\es\wirelessRPS\RPSClient\SocketClient\bin\Debug\SocketClient.pdb
+D:\GitHub\t-db2-2122vj-lucasvanlippen\es\wirelessRPS\RPSClient\SocketClient\obj\Debug\SocketClient.csproj.CoreCompileInputs.cache
+D:\GitHub\t-db2-2122vj-lucasvanlippen\es\wirelessRPS\RPSClient\SocketClient\obj\Debug\SocketClient.exe
+D:\GitHub\t-db2-2122vj-lucasvanlippen\es\wirelessRPS\RPSClient\SocketClient\obj\Debug\SocketClient.pdb
+D:\GitHub\t-db2-2122vj-lucasvanlippen\es\wirelessRPS\RPSClient\SocketClient\obj\Debug\SocketClient.csproj.AssemblyReference.cache

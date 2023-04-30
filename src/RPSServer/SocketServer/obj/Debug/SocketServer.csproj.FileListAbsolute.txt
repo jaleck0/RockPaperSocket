@@ -1,0 +1,14 @@
+C:\Users\Renata Frenken\source\repos\SocketServer\SocketServer\bin\Debug\SocketServer.exe.config
+C:\Users\Renata Frenken\source\repos\SocketServer\SocketServer\bin\Debug\SocketServer.exe
+C:\Users\Renata Frenken\source\repos\SocketServer\SocketServer\bin\Debug\SocketServer.pdb
+C:\Users\Renata Frenken\source\repos\SocketServer\SocketServer\obj\Debug\SocketServer.csprojResolveAssemblyReference.cache
+C:\Users\Renata Frenken\source\repos\SocketServer\SocketServer\obj\Debug\SocketServer.csproj.CoreCompileInputs.cache
+C:\Users\Renata Frenken\source\repos\SocketServer\SocketServer\obj\Debug\SocketServer.exe
+C:\Users\Renata Frenken\source\repos\SocketServer\SocketServer\obj\Debug\SocketServer.pdb
+D:\GitHub\t-db2-2122vj-lucasvanlippen\es\wirelessRPS\RPSServer\SocketServer\bin\Debug\SocketServer.exe.config
+D:\GitHub\t-db2-2122vj-lucasvanlippen\es\wirelessRPS\RPSServer\SocketServer\bin\Debug\SocketServer.exe
+D:\GitHub\t-db2-2122vj-lucasvanlippen\es\wirelessRPS\RPSServer\SocketServer\bin\Debug\SocketServer.pdb
+D:\GitHub\t-db2-2122vj-lucasvanlippen\es\wirelessRPS\RPSServer\SocketServer\obj\Debug\SocketServer.csproj.AssemblyReference.cache
+D:\GitHub\t-db2-2122vj-lucasvanlippen\es\wirelessRPS\RPSServer\SocketServer\obj\Debug\SocketServer.csproj.CoreCompileInputs.cache
+D:\GitHub\t-db2-2122vj-lucasvanlippen\es\wirelessRPS\RPSServer\SocketServer\obj\Debug\SocketServer.exe
+D:\GitHub\t-db2-2122vj-lucasvanlippen\es\wirelessRPS\RPSServer\SocketServer\obj\Debug\SocketServer.pdb
